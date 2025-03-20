@@ -21,6 +21,9 @@
   --marked: #ffdd33;
   --disabled: #efefef;
 }
+del{
+  color: red;
+}
 
 /* Dark theme */
 @media (prefers-color-scheme: dark) {
